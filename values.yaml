@@ -1,0 +1,5 @@
+image: amin4666/cloud-accelerator-img:latest
+port: 8080
+servicetype: LoadBalancer
+replicas: 1
+name: cloud-accelerator
